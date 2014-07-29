@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeatInABox.Web", "BeatInABox.Web\BeatInABox.Web.csproj", "{6881E9C8-937B-4BDE-9C92-1BD17F56613B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeatInABox.Service", "BeatInABox.Service\BeatInABox.Service.csproj", "{EBA51D0A-7AFC-434A-9CA9-CF2A5178240A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6881E9C8-937B-4BDE-9C92-1BD17F56613B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6881E9C8-937B-4BDE-9C92-1BD17F56613B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6881E9C8-937B-4BDE-9C92-1BD17F56613B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6881E9C8-937B-4BDE-9C92-1BD17F56613B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBA51D0A-7AFC-434A-9CA9-CF2A5178240A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA51D0A-7AFC-434A-9CA9-CF2A5178240A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA51D0A-7AFC-434A-9CA9-CF2A5178240A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA51D0A-7AFC-434A-9CA9-CF2A5178240A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
