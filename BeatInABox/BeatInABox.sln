@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeatInABox.Web", "BeatInABox.Web\BeatInABox.Web.csproj", "{6881E9C8-937B-4BDE-9C92-1BD17F56613B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeatInABox.Service", "BeatInABox.Service\BeatInABox.Service.csproj", "{EBA51D0A-7AFC-434A-9CA9-CF2A5178240A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeatInABox.Library", "BeatInABox.Library\BeatInABox.Library.csproj", "{CEA032A5-75AB-4F61-A9DC-7DEF4C5DCB56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeatInABox.Console", "BeatInABox.Console\BeatInABox.Console.csproj", "{17AFBB23-02D5-4ACC-B7A0-5F9514D2AE50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{EBA51D0A-7AFC-434A-9CA9-CF2A5178240A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBA51D0A-7AFC-434A-9CA9-CF2A5178240A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBA51D0A-7AFC-434A-9CA9-CF2A5178240A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA032A5-75AB-4F61-A9DC-7DEF4C5DCB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA032A5-75AB-4F61-A9DC-7DEF4C5DCB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA032A5-75AB-4F61-A9DC-7DEF4C5DCB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA032A5-75AB-4F61-A9DC-7DEF4C5DCB56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17AFBB23-02D5-4ACC-B7A0-5F9514D2AE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AFBB23-02D5-4ACC-B7A0-5F9514D2AE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AFBB23-02D5-4ACC-B7A0-5F9514D2AE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AFBB23-02D5-4ACC-B7A0-5F9514D2AE50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
